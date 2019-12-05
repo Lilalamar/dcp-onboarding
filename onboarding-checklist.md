@@ -8,7 +8,7 @@ The purpose of this document is to guide you, the new user, through the onboardi
 
 ### New User Tasks
 
-- [ ] 1. [Join the HumanCellAtlas GitHub Organization](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#1-join-the-humancellatlas-github-organization)
+- [ ] 1. [Join the HumanCellAtlas GitHub Organization](#1-join-the-humancellatlas-github-organization)
 - [ ] 2. [Review Required Onboarding Documentation](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#2-review-required-onboarding-documentation)
 - [ ] 3. [Join the HCA Slack Organization](https://join-hca-slack.data.humancellatlas.org/)
 - [ ] 4. [Add Name to the HCA DCP Roster Spreadsheet](https://docs.google.com/spreadsheets/d/1f0RGNrEYsIOYYg9TRKK0dJgq_MDVKnrAnzPRvQqGLec/edit?usp=sharing)
