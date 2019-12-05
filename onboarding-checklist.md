@@ -10,12 +10,12 @@ The purpose of this document is to guide you, the new user, through the onboardi
 
 - [ ] 1. [Join the HumanCellAtlas GitHub Organization](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#1-join-the-humancellatlas-github-organization)
 - [ ] 2. [Review Required Onboarding Documentation](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#2-review-required-onboarding-documentation)
-- [ ] 3. [Join the HCA Slack Organization](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#3-join-the-hca-slack-organization)
-- [ ] 4. [Add Name to the HCA DCP Roster Spreadsheet](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#4-add-name-to-the-hca-dcp-roster-spreadsheet)
-- [ ] 5. [Add Bio to the HCA Bio Document](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#5-add-bio-to-the-hca-bio-document) 
-- [ ] 6. [Join the DCP Calendar](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#6-join-the-dcp-calendar)
+- [ ] 3. [Join the HCA Slack Organization](https://join-hca-slack.data.humancellatlas.org/)
+- [ ] 4. [Add Name to the HCA DCP Roster Spreadsheet](https://docs.google.com/spreadsheets/d/1f0RGNrEYsIOYYg9TRKK0dJgq_MDVKnrAnzPRvQqGLec/edit?usp=sharing)
+- [ ] 5. [Add Bio to the HCA Bio Document](https://docs.google.com/document/d/1Gwrn2KgGGiEV37g0vhWnBrGLRvAPp-xXgq569R5WuPY/edit#heading=h.mli8yy22y20i) 
+- [ ] 6. [Join the DCP Calendar](https://calendar.google.com/calendar/embed?src=broadinstitute.org_3k1lsin0pb4utgg8d87plnhcc8%40group.calendar.google.com&ctz=America%2FNew_York)
 - [ ] 7. [Review Team Technical Documentation](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#7-review-team-technical-documentation)
-- [ ] 8. [Review Useful Acronyms](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#8-review-useful-acronyms)
+- [ ] 8. [Review Useful Acronyms](https://docs.google.com/spreadsheets/d/1KaRWiAIVs5BETqwhQ7BI0B65EWSjCmw-RlbGdSjKLGI/edit#gid=0)
 
 
 ### Security Lead Tasks
