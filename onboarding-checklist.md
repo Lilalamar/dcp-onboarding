@@ -20,11 +20,11 @@ The purpose of this document is to guide you, the new user, through the onboardi
 
 ### Security Lead Tasks
 
-- [ ] 1. [Open a New User Onboarding Ticket](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#1-open-a-new-user-onboarding-ticket)         
-- [ ] 2. [Add Confirmation of User’s GitHub 2-factor Authentication to User Onboarding Ticket](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#2-add-confirmation-of-users-github-2-factor-authentication-to-user-onboarding-ticket)
-- [ ] 3. [Add User to HCA Github Organization and Teams](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#3-add-user-to-hca-github-organization-and-teams) 
-- [ ] 4. [Provide Access to Cloud Environments](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#4-provide-access-to-cloud-environments) 
-- [ ] 5. [Provide Access to Relevant Tools](https://github.com/ekiernan/Onboarding_SOP_Tahiri/blob/Trial_1/README.md#5-provide-access-to-relevant-tools)
+- [ ] 1. [Open a New User Onboarding Ticket](#1-open-a-new-user-onboarding-ticket)         
+- [ ] 2. [Add Confirmation of User’s GitHub 2-factor Authentication to User Onboarding Ticket](#2-add-confirmation-of-users-github-2-factor-authentication-to-user-onboarding-ticket)
+- [ ] 3. [Add User to HCA Github Organization and Teams](#3-add-user-to-hca-github-organization-and-teams) 
+- [ ] 4. [Provide Access to Cloud Environments](#4-provide-access-to-cloud-environments) 
+- [ ] 5. [Provide Access to Relevant Tools](#5-provide-access-to-relevant-tools)
 
 
 ## New User Tasks
